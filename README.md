@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code for the Prophet Challenge.  This challenge is to show understanding of time series data with Prophet in Python.  The assigned Crypto_Clustering_starter_code.ipynb file can be accessed [here](https://github.com/dailyinvention/CryptoClustering/blob/main/Crypto_Clustering_starter_code.ipynb).
+This repository contains the code for the CryptoClustering challenge.  This challenge is to show understanding of unsupervised learning techniques like clustering.  The assigned Crypto_Clustering_starter_code.ipynb file can be accessed [here](https://github.com/dailyinvention/CryptoClustering/blob/main/Crypto_Clustering_starter_code.ipynb).
 
 ## Table of Contents
 
